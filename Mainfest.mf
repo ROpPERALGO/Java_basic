@@ -1,0 +1,2 @@
+Main-Class: TaskTimerApp
+Class-Path: .
